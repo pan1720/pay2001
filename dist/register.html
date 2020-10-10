@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>注册</title>
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="css/register.css">
+    <link rel="stylesheet" href="css/reset.css">
+    <script src="js/require.js" async="true" defer  data-main="js/main3"></script>
+</head>
+<body>
+     <!-- 头部 -->
+     <div class="m-header">
+        <div class="g-center">
+            <div class="logo">
+                <a href="index.html"><img src="http://mall.haval.com.cn/ccweb/images/new_login/loginLogo.png" alt=""></a>
+            </div>
+            <span>已有账号？</span> <a class="a1" href="login.html">请登录</a>
+        </div>
+    </div>
+    <!-- 主体 -->
+    <form id = "registForm" name="registForm">
+        <div class="m-content">
+			<div class="g-center f-cb">
+				<div class="m-form-register f-fl">
+					<div class="mfr-bd">
+						<ul class="item_account">
+							<li>
+								<div class="label">用&nbsp;&nbsp;户&nbsp;&nbsp;名</div>
+								<input class="item_account f-border-red " type="text" placeholder="用户名为4-20位字符，支持中英文、数字及“_”的组合" name="signupName" id="signupName" >
+							</li>
+							<li>
+								<div class="label">设置密码</div>
+                                <input class="item_account" type="password" placeholder="密码至少由8位字符（字母 数字 @ .）组合" id="signupPassword" name="signupPassword" >
+							</li>
+							<li>
+								<div class="label">确认密码</div>
+                                <input class="item_account" type="password" placeholder="请再次输入密码" id="signupPasswordRepeat" name="signupPasswordRepeat">
+							</li>
+                            <div class = 'alert alert-danger' id = 'alert'>我是警告框</div>
+							<li class="ml-fd agreement"><label class="u-check">
+                                <i></i>我已经看过并同意<a href="#" id="agreement">《哈弗商城服务协议》 </a></label></li>
+							<li class="f-push-30-t">
+								<a class="u-btn-next f-push-10-t" id="register-button">立即注册</a>
+							</li>
+						</ul>
+					</div> 
+				</div>
+				<div class="bannerPic f-fl">
+					
+						<img src="https://img.haval.com.cn/otherimg/lbggw/2019/05/13/10/1557714185437.jpg">
+					
+				</div> 
+		
+            </div>
+	   </div>
+    </form>
+     <!-- 底部 -->
+     <div class="m-footer">
+        <div class="u-hrefs">
+            <a href="index.html">哈弗官网</a>
+            <a href="">哈弗社区</a>
+            <a href="">车联网</a>
+        </div>
+        <p>Copyright©2020 Great Wall Motor.&nbsp;All rights reserved&nbsp;|&nbsp;<a href="" style="color:#9d9d9d" >冀ICP备 05008632</a>&nbsp;|&nbsp;增值电信业务经营许可证：冀B2-20150037</p>
+    </div>
+</body>
+</html>

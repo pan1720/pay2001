@@ -1,0 +1,152 @@
+/*
+    头部
+*/
+.m-header {
+    height: 90px;
+    color: #999;
+    font-size: 15px;
+    box-shadow: 0 0 10px 1px #ccc;
+    span{
+        color: #444;
+        font-size: 15px;
+        margin-top: 50px ;
+        float: right;
+    }
+}
+
+.g-center {
+    width: 1200px;
+    margin: 0 auto;
+}
+.m-header .logo {
+    float: left;
+    margin-top: 25px;
+}
+/*
+    中间
+*/
+.m-content{
+    background: url(https://img.haval.com.cn/otherimg/lbggw/2019/05/13/10/1557714161405.jpg) center center no-repeat;
+    position: relative;
+    min-height: 602px;
+}
+
+.m-form-login {
+    width: 380px;
+    height: 370px;
+  
+    position: absolute;
+    top: 120px;
+    left: 50%;
+    margin-left: 240px;
+    background: #fff;
+}
+.m-form-login .h3 {
+    font-size: 14px;
+    margin: 0px 100px 47px 100px;
+    margin-top: 25px;
+    color: #ccc;
+}
+.m-form-login .h3 span {
+    font-size: 16px;
+    color: #444;
+    padding: 0 40px;
+    cursor: pointer;
+}
+.m-form-login .h3 .active {
+    color: #e84343;
+}
+.m-form-login li {
+    margin-bottom: 20px;
+    position: relative;
+}
+.m-form-login .icon {
+    width: 36px;
+    height: 39px;
+    position: absolute;
+    left: 21px;
+    bottom: 1px;
+}
+.m-form-login input {
+    margin: 0px 20px;
+    width: 285px;
+    height: 38px;
+    line-height: 38px;
+    font-size: 15px;
+    color: #b4b4b4;
+    padding-left: 10px;
+    border: 1px solid #eaeaea;
+    overflow: hidden;
+    
+}
+.m-form-login .icon ~ input {
+    padding-left: 50px;
+}
+.f-push-30-t {
+    margin-top: 30px;
+    margin: 0px 20px;
+}
+.u-btn-next {
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+    background: #e84343;
+    color: #fff;
+    letter-spacing: 6px;
+    cursor: pointer;
+    text-align: center;
+    width: 100%;
+    display: block;
+}
+.m-form-login .ml-fd {
+    font-size: 12px;
+    margin: 0px 20px;
+    color: #bbb;
+}
+.m-form-login .ml-fd a {
+    font-size: 12px;
+    color: #0080ff;
+}
+.m-form-login .ml-fd .register {
+    float: right;
+    color: #0080FF;
+}
+/*
+    底部
+*/
+.m-footer{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 40px;
+    p{
+        color: #9d9d9d;
+        line-height: 1.5em;
+    }
+    a{
+        color: #333;
+        font-size: 16px;
+        padding: 0 30px;
+    }
+}
+.u-hrefs{
+    margin-bottom: 5px;
+}
+.alert-danger {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+  }
+  .alert-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+#alert {
+    width: 335px;
+    margin: 2px;
+    padding: 2px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: 20px;
+     display: none; 
+}

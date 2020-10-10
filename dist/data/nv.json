@@ -1,0 +1,19 @@
+[
+    {"class":"conter-nv-item nv-conter","value":"&nbsp;","a":"#"},
+    {"class":"conter-nv-item ","aclass":"title","value":"首页","a":"index.html"},
+    {"class":"conter-nv-item","aclass":"title1","value":"车抢购","a":"list.html?id=0"},
+    {"class":"conter-nv-item","value":"车享用","a":"#"},
+    {"class":"conter-nv-item","value":"车延保","a":"#"},
+    {"class":"conter-nv-item","value":"车联网","a":"#"},
+    {"class":"conter-nv-item nv-nv","value":"购车工具",
+        "area":[
+            "经销商查询",
+            "服务商查询",
+            "预约试驾",
+            "购车计算器",
+            "贷款购车"
+        ]
+        ,"a":"#" 
+    },
+    {"class":"conter-nv-item","value":"车互动","a":"#"}
+]

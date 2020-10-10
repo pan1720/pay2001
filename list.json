@@ -1,0 +1,83 @@
+[
+    {
+        "title":"全新哈弗H6(含GT版)",
+        "did":"mark",
+        "id":"0",
+        "Dimg":["https://img.haval.com.cn/otherimg/goods/2019/03/07/11/1551928030560.jpg","https://img.haval.com.cn/otherimg/goods/2019/03/07/11/1551928033676.jpg"],
+        "Mimg":["https://img.haval.com.cn/otherimg/goods/2019/03/07/11/1551928030560_80.jpg","https://img.haval.com.cn/otherimg/goods/2019/03/07/11/1551928033676_80.jpg"],
+        "xlspan":"全新哈弗H6 1.5GDIT都市版",
+        "padspan":["104000.00","104000.00"], 
+        "xhao":"haval-0901-01",
+        "list":[
+            "&nbsp;全新哈弗H6 1.5GDIT豪华智联版 12.7万&nbsp;",
+            "&nbsp;全新哈弗H6 1.5GDIT超豪智联版 13.4万&nbsp;",
+            "&nbsp;全新哈弗H6 2.0GDIT冠军版 12.7万&nbsp;",
+            "&nbsp;全新哈弗H6 2.0GDIT冠军版 12.7万&nbsp;",
+            "&nbsp;全新哈弗H6 铂金都市版&nbsp;",
+            "&nbsp;全新哈弗H6 铂金冠军版&nbsp;",
+            "&nbsp;全新哈弗H6 铂金豪华版&nbsp;",
+            "&nbsp;全新哈弗H6 铂金超豪版&nbsp;",
+            "&nbsp;全新哈弗H6 铂金冠军版2.0T&nbsp;",
+            "&nbsp;全新哈弗H6 铂金豪华版版2.0T&nbsp;",
+            "&nbsp;全新哈弗H6 GT 冠军版&nbsp;",
+            "&nbsp;全新哈弗H6 GT 豪华版&nbsp;",
+            "&nbsp;全新哈弗H6 GT 版&nbsp;"
+        ],
+        "money":"money0"       
+    },
+    {
+        "title":"新哈弗H6 Coupe智联版",
+        "did":"mark",
+        "id":"1",
+        "Dimg":["https://img.haval.com.cn/otherimg/goods/2019/02/18/10/1550458595734.jpg","https://img.haval.com.cn/otherimg/goods/2019/02/18/10/1550458599125.jpg"],
+        "Mimg":["https://img.haval.com.cn/otherimg/goods/2019/02/18/10/1550458595734_80.jpg","https://img.haval.com.cn/otherimg/goods/2019/02/18/10/1550458599125_80.jpg"],
+        "xlspan":"新哈弗H6 Coupe智联版精英型",
+        "padspan":["103000.00","103000.00"],
+        "xhao":"haval-4351-02",
+        "list":[
+            "&nbsp;新哈弗H6Coupe智联版精英型 10.3万&nbsp;",
+            "&nbsp;新哈弗H6Coupe豪华智联版 11.0万&nbsp;",
+            "&nbsp;新哈弗H6Coupe超豪智联版 11.7万&nbsp;",
+            "&nbsp;新哈弗H6Coupe 国Ⅵ 都市型 9.8万&nbsp;",
+            "&nbsp;新哈弗H6Coupe 国Ⅵ 精英型 10.5万&nbsp;",
+            "&nbsp;新哈弗H6Coupe 国Ⅵ 豪华智联版 11.2万&nbsp;",
+            "&nbsp;新哈弗H6Coupe 国Ⅵ 超豪智联版11.9万&nbsp;",
+            "&nbsp;新H6Coupe 手动舒适型&nbsp;",
+            "&nbsp;新H6Coupe 手动都市型&nbsp;",
+            "&nbsp;新H6Coupe 手动精英型&nbsp;",
+            "&nbsp;新H6Coupe 自动都市型&nbsp;",
+            "&nbsp;新H6Coupe 精英型(110W)&nbsp;",
+            "&nbsp;新H6Coupe 豪华智联版(110W)&nbsp;",
+            "&nbsp;新H6Coupe 精英型(124W)&nbsp;",
+            "&nbsp;新H6Coupe 豪华智联版(124W)&nbsp;",
+            "&nbsp;新H6Coupe 超豪智联版(124W) &nbsp;"
+        ],
+        "money":"money1"       
+    },
+    {
+        "title":"哈弗H2创享版",
+        "did":"mark",
+        "id":"2",
+        "Dimg":["https://img.haval.com.cn/otherimg/goods/2019/03/07/19/1551956968748.jpg","https://img.haval.com.cn/otherimg/goods/2019/03/07/19/1551956980836.jpg"],
+        "Mimg":["https://img.haval.com.cn/otherimg/goods/2019/03/07/19/1551956968748_80.jpg","https://img.haval.com.cn/otherimg/goods/2019/03/07/19/1551956980836_80.jpg"],
+        "xlspan":"哈弗H2",
+        "padspan":["74900.00","74900.00"],
+        "xhao":"haval-1111-03",
+        "list":[
+            "&nbsp;哈弗H2 1.5GDIT豪华智联版 12.7万&nbsp;",
+            "&nbsp;哈弗H2 1.5GDIT超豪智联版 13.4万&nbsp;",
+            "&nbsp;哈弗H2 2.0GDIT冠军版 12.7万&nbsp;",
+            "&nbsp;哈弗H2 2.0GDIT冠军版 12.7万&nbsp;",
+            "&nbsp;哈弗H2 铂金都市版&nbsp;",
+            "&nbsp;哈弗H2 铂金冠军版&nbsp;",
+            "&nbsp;哈弗H2 铂金豪华版&nbsp;",
+            "&nbsp;哈弗H2 铂金超豪版&nbsp;",
+            "&nbsp;哈弗H2 铂金冠军版2.0T&nbsp;",
+            "&nbsp;哈弗H2 铂金豪华版版2.0T&nbsp;",
+            "&nbsp;哈弗H2 GT 冠军版&nbsp;",
+            "&nbsp;哈弗H2 GT 豪华版&nbsp;",
+            "&nbsp;哈弗H2 GT 版&nbsp;"
+        ],
+        "money":"money2"       
+    }
+]

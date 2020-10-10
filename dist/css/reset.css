@@ -1,0 +1,51 @@
+html, body, p, h1, h2, h3, h4, h5, h6, form, ol, ul, dl, li, dt, dd, fieldset, legend, img, input, select, option {
+  margin: 0;
+  padding: 0; }
+
+a {
+  text-decoration: none;
+  color: #000; }
+
+ul, ol {
+  list-style: none; }
+
+img {
+  vertical-align: middle;
+  border: 0; }
+
+b, strong, i, em, h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  font-style: normal; }
+
+fieldset {
+  border: 0; }
+
+.clearfn:after {
+  content: "";
+  clear: both;
+  display: block;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden; }
+
+input {
+  text-rendering: auto;
+  color: -internal-light-dark-color(black, white);
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  display: inline-block;
+  text-align: start;
+  -webkit-appearance: textfield;
+  background-color: -internal-light-dark-color(white, black);
+  -webkit-rtl-ordering: logical;
+  cursor: text;
+  margin: 0em;
+  font: 400 13.3333px Arial;
+  padding: 1px 0px;
+  border-width: 2px;
+  border-style: inset;
+  border-color: initial;
+  border-image: initial; }
